@@ -16,6 +16,8 @@ A resolução deste exercício se deu por meio de três fluxogramas representand
 
 <img src="inserirElemento.png">
 
+O fluxograma para inserir um elemento, consiste basicamente em um "Início" representado por um símbolo de terminação indicando o começo do programa. Em seguida passa por um símbolo de decisão retratado por um losango. Caso a lista esteja cheia o programa volta para o início, caso não esteja cheio ele passa por símbolos de ação onde o programa insere o elemento no final da lista e a última posição avança uma casa. Logo em seguida ele volta também para o início.
+
 <h3>Remoção</h3>
 
 <img src="removerElemento.png">
