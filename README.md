@@ -10,6 +10,7 @@ A resolução deste exercício se deu por meio de três fluxogramas representand
 
 <h3>Estrutura de um Fluxograma</h3>
 
+<img src="simbologia.png">
 
 <h3>Inserção</h3>
 
