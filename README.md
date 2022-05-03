@@ -6,7 +6,7 @@ Faça um diagrama para representar uma inserção, remoção e pesquisa em uma l
 
 <h3>Resolução</h3>
 
-A resolução deste exercício se deu por meio de três fluxogramas representando cada função pedida no enunciado respectivamente.
+A resolução deste exercício se deu por meio de três fluxogramas representando cada função pedida no enunciado respectivamente. Os fluxogramas foram construídos por meio do website https://www.diagrams.net/.
 
 <h3>Inserção</h3>
 <h3>Remoção</h3>
