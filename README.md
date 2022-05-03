@@ -22,6 +22,8 @@ O fluxograma para inserir um elemento, consiste basicamente em um "Início" repr
 
 <img src="removerElemento.png">
 
+O fluxograma para remover um elemento, fundamenta-se basicamente em um "Início" como no fluxograma para inserção de um elemento. Em seguida passa por um símbolo de decisão retratado por um losango. Caso a lista esteja cheia o programa volta para o início, caso não esteja cheia o algoritmo passa por símbolos de ação onde o programa insere o elemento no final da lista e a última posição avança uma casa. Logo em seguida ele volta também para o início.
+
 <h3>Pesquisa</h3>
 
 <img src="pesquisaElemento.png">
