@@ -27,3 +27,5 @@ O fluxograma para remover um elemento fundamenta-se basicamente em um "Início" 
 <h3>Pesquisa</h3>
 
 <img src="pesquisaElemento.png">
+
+O fluxograma para pesquisar um elemento baseia-se em um "Início" como no fluxograma para inserção e remoção de um elemento. Em seguida passa por um símbolo de decisão. Caso a lista esteja vazia o programa volta ao início, caso não esteja . Logo em seguida ele volta também para o início.
