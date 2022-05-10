@@ -1,6 +1,6 @@
 # Exercicios-de-Lista-Ativ1
 
-<h2>Exercício 1</h2>
+<h2>Problema</h2>
 
 Faça um diagrama para representar uma inserção, remoção e pesquisa em uma lista linear.
 
